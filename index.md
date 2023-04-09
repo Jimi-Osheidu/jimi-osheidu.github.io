@@ -8,7 +8,7 @@
 
 ---
 ## Tweet Scrapper using Tweepy for Python 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/images/Screenshot%202022-12-12%20185541%20tweets.jpg/"/>
 
 ---
 [Project 3 Title](http://example.com/)

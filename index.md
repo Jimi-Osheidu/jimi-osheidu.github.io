@@ -1,4 +1,4 @@
-## Selected data analytics and visualisation projects
+# Selected data analytics and visualisation projects
 
 ---
 
@@ -7,7 +7,7 @@
 <img src="/images/1_L8bXR8YIaIO_--tBjN8XNA.webp"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+## Tweet Scrapper using Tweepy for Python 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

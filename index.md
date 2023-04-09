@@ -3,12 +3,12 @@
 ---
 
 ### An exploratory analysis of Stack Overflow's 2022 developer survey 
-
+https://medium.com/@jimivsdata/how-much-does-the-average-developer-in-your-country-earn-59a4c0ec257b
 <img src="/images/1_L8bXR8YIaIO_--tBjN8XNA.webp"/>
 
 ---
 ## Tweet Scrapper using Tweepy for Python 
-<img src="/images/Screenshot%202022-12-12%20185541%20tweets.jpg/"/>
+<img src="/images/Screenshot%202022-12-12%20185541%20tweets.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)

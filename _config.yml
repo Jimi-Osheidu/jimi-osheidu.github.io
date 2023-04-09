@@ -1,9 +1,10 @@
 title: Jimi Osheidu # your name (or website title) here
-logo: https://github.com/Jimi-Osheidu/jimi-osheidu.github.io/blob/master/images/Profile%20picture.jpg # your photo (or logo) here
+logo: "/images/Profile%20picture.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  As a data analyst with a background in marketing and advertising, I have a wide range of skills, including knowledge of data analysis, visualisation, and reporting using tools such as SQL, Python, Excel, and Tableau.   <br><br>
   
   <br><br>
+  
   <a href="https://www.linkedin.com/in/jimiosheidu/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

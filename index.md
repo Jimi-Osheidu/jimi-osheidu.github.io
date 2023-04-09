@@ -4,7 +4,6 @@
 
 ### An exploratory analysis of Stack Overflow's 2022 developer survey 
 
-[Project 1 Title](/sample_page)
 <img src="/images/1_L8bXR8YIaIO_--tBjN8XNA.webp"/>
 
 ---

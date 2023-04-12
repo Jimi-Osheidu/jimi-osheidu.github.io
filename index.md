@@ -2,7 +2,6 @@
 
 ---
 
-### An exploratory analysis of Stack Overflow's 2022 developer survey 
 [An exploratory analysis of Stack Overflow's 2022 developer survey](https://medium.com/@jimivsdata/how-much-does-the-average-developer-in-your-country-earn-59a4c0ec257b)
 <img src="/images/1_L8bXR8YIaIO_--tBjN8XNA.webp"/>
 
@@ -18,7 +17,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/](https://medium.com/@jimivsdata/how-much-does-the-average-developer-in-your-country-earn-59a4c0ec257b))
+- [Project 1 Title](http://example.com/]
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

@@ -3,10 +3,14 @@
 ---
 
 [An Exploratory Analysis of Stack Overflow's 2022 Developer Survey](https://medium.com/@jimivsdata/how-much-does-the-average-developer-in-your-country-earn-59a4c0ec257b)
+Using pandas in Python, I explored median pay across various countries and dropped some columns, then exported a new csv file for visualisation with Tableau.
+
+The dataset surveys 73,268 software developers from 180 countries around the world, the questions asked ranged from years of coding experience, what technologies used, to ethnicity, sexuality and pay.
 <img src="/images/1_L8bXR8YIaIO_--tBjN8XNA.webp"/>
 
 ---
 [Twitter Tweet Scrapper Using Tweepy](https://github.com/Jimi-Osheidu/twitter_python_scraper)
+
 Using Tweepy open source Python package, I demonstrated how to obtain user tweets and how to conduct a keyword or hashtag search. The tweets were then visualised using Power BI
 <img src="/images/Screenshot%202022-12-12%20185541%20tweets.jpg"/>
 

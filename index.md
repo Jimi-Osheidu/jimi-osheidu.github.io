@@ -3,7 +3,7 @@
 ---
 
 ### An exploratory analysis of Stack Overflow's 2022 developer survey 
-https://medium.com/@jimivsdata/how-much-does-the-average-developer-in-your-country-earn-59a4c0ec257b
+[An exploratory analysis of Stack Overflow's 2022 developer survey](https://medium.com/@jimivsdata/how-much-does-the-average-developer-in-your-country-earn-59a4c0ec257b)
 <img src="/images/1_L8bXR8YIaIO_--tBjN8XNA.webp"/>
 
 ---

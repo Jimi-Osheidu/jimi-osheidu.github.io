@@ -16,18 +16,15 @@ Using Tweepy open source Python package, I demonstrated how to obtain user tweet
 <img src="/images/Screenshot%202022-12-12%20185541%20tweets.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Optimising Online Revenue with SQL](https://github.com/Jimi-Osheidu/Optimising-Online-Revenue-)
+
+With SQL, I analysed  data for an online sports retail company. Used techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to produce recommendations on how the company can maximize revenue.
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/]
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 

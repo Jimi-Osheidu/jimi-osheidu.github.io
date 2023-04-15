@@ -19,10 +19,9 @@ Using Tweepy open source Python package, I demonstrated how to obtain user tweet
 [Optimising Online Revenue with SQL](https://github.com/Jimi-Osheidu/Optimising-Online-Revenue-)
 
 With SQL, I analysed  data for an online sports retail company. Used techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to produce recommendations on how the company can maximize revenue.
-
+<img src="/images/1_L8bXR8YIaIO_--tBjN8XNA.webp"/>
 ---
 
-### Category Name 2
 
 
 
